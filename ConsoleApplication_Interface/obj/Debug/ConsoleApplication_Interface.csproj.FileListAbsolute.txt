@@ -1,0 +1,6 @@
+C:\Users\aastepanov\Documents\Visual Studio 2012\Projects\Students\ConsoleApplication_Interface\ConsoleApplication_Interface\bin\Debug\ConsoleApplication_Interface.exe.config
+C:\Users\aastepanov\Documents\Visual Studio 2012\Projects\Students\ConsoleApplication_Interface\ConsoleApplication_Interface\bin\Debug\ConsoleApplication_Interface.exe
+C:\Users\aastepanov\Documents\Visual Studio 2012\Projects\Students\ConsoleApplication_Interface\ConsoleApplication_Interface\bin\Debug\ConsoleApplication_Interface.pdb
+C:\Users\aastepanov\Documents\Visual Studio 2012\Projects\Students\ConsoleApplication_Interface\ConsoleApplication_Interface\obj\Debug\ConsoleApplication_Interface.exe
+C:\Users\aastepanov\Documents\Visual Studio 2012\Projects\Students\ConsoleApplication_Interface\ConsoleApplication_Interface\obj\Debug\ConsoleApplication_Interface.pdb
+C:\Users\aastepanov\Documents\Visual Studio 2012\Projects\Students\ConsoleApplication_Interface\ConsoleApplication_Interface\obj\Debug\ConsoleApplication_Interface.csprojResolveAssemblyReference.cache
